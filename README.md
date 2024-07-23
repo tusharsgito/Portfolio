@@ -21,7 +21,7 @@ Work: A showcase of my recent projects.
 Contact: A form to get in touch with me.
 
 How to Use
-Clone the repository: git clone https://github.com/username/portfolio-website.git
+Clone the repository: git clone https://github.com/tusharsgito/Portfolio
 Open the index.html file in your browser to view the website locally.
 Explore and navigate through the different sections to learn more about my work and interests.
 Feel free to explore the code, and any feedback or suggestions are welcome!
